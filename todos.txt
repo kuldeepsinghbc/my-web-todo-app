@@ -1,0 +1,7 @@
+First New todo
+Second New Todo
+Third to-do
+Fourth: Make soup.
+Fifth: Master Python
+Sixth: Complete todo
+Seventh: A new todo
